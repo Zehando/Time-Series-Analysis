@@ -1,5 +1,10 @@
 ## **My Journey Through a Time Series Maze: Forecasting London's Air Quality**
 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-336791?style=for-the-badge&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0077B6?style=for-the-badge&logoColor=white)
+
 Trying to predict the future with time series data can feel like navigating a maze. You face challenges like missing information, seasonal cycles, picking the right model, and the constant fear of *overfitting* (creating a model that looks good on old data but can't predict new data).
 
 Here, I'll guide you through my process of creating a forecast from the beginning, using data on London's monthly NO₂ levels. I won't just cover the technical parts, but also the little frustrations that happen along the way.
